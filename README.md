@@ -3,7 +3,6 @@
 
 **Name:** Lileshwar Mahajan  
 **Role:** Python Developer Intern  
-**Company:** Embed Square Solutions Private Limited  
 **Submission Date:** 26 October 2026
 
 ## Overview
